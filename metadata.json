@@ -1,0 +1,6 @@
+{
+  "name": "កម្មវិធីបង្កើតបំណែងចែកកម្មវិធីសិក្សាស្វ័យប្រវត្តិ MoEYS",
+  "description": "ប្រព័ន្ធបង្កើតកម្មវិធីសិក្សា និងកាលវិភាគបង្រៀនស្វ័យប្រវត្តិថ្នាក់បឋមសិក្សា (ថ្នាក់ទី១ ដល់ ថ្នាក់ទី៦) ស្របតាមស្តង់ដារ MoEYS ជាមួយការនាំចេញ Google Sheets, Excel, PDF Print និងជំនួយការ AI កិច្ចតែងការបង្រៀន។",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
